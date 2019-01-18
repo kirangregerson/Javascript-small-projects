@@ -1,0 +1,32 @@
+/*CSS FILE FOR PIZZA MENU*/
+
+html{
+    font-family: verdana;
+    font-size: 80%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+body{
+    background-color: #d6bf7f;
+}
+h1{
+    line-height: 50px;
+    font-weight: 900;
+    font-size: 30px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #E91C1C;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.5);
+
+}
+.button-holder{
+    text-align: left;
+    right: 300px;
+}
+.menu input{
+    display: inline-block;
+}
+.menu input{
+    display: inline-block;
+}
